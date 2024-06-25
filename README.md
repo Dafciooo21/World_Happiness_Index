@@ -1,1 +1,1 @@
-# World_Happiness_Index
+# world_happiness_index
