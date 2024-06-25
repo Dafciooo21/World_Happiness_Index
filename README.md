@@ -9,6 +9,14 @@ The ranking is published annually, and the results are used not only to assess t
 
 This index serves as an important diagnostic tool that helps understand how different policies and socio-economic conditions affect the well-being of citizens, thereby contributing to promoting global initiatives aimed at building more harmonious and happier societies.
 
+# Table of Contents #
+
+# Installation #
+
+# Project Motivation #
+
+# Description #
+
 # Licensing, Authors, Acknowledgements #
 The underlying data used for the analysis comes from the WorldHapiness website. Feel free to use this code to add additional features.
 ### **Links to data and the official report website:**
