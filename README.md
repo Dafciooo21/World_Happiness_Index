@@ -10,7 +10,7 @@ The motivation behind this project is to explore and understand the factors that
 
 The goal of this analysis is to understand the factors contributing to the World Happiness Index and to build predictive models to estimate the index based on various socio-economic indicators.
 
-## ****Loading Data****
+### ****Loading Data****
 
 Data is loaded from a CSV file containing panel data on various happiness-related metrics for different countries over multiple years.
 
