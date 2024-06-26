@@ -20,28 +20,25 @@ Data is loaded from a CSV file containing panel data on various happiness-relate
 
 ##### Data Preprocessing
 
-- Selection of relevant variables,
-- Handling missing values,
-- Verifying data types.
+- Selection of relevant variables
+- Handling missing values
+- Verifying data types
 
 ##### Exploratory Data Analysis (EDA)
 
-- Visualizing the distribution of variables,
-- Identifying correlations between different variables,
-- Detecting outliers and anomalies,
-- Understanding trends over time.
+- Visualizing the distribution of variables
+- Identifying correlations between different variables
+- Detecting outliers and anomalies
+- Understanding trends over time
 
 ##### Modeling
 
 Several models are applied to the preprocessed data to predict the World Happiness Index:
 
-1.	Multiple Linear Regression
-
-2.	Polynomial Regressio**n**
-
-3.	Random Forest
-
-4.	AdaBoost
+- Multiple Linear Regression
+- Polynomial Regression
+- Random Forest
+- AdaBoost
 
 ###### **Model Evaluation**
 
