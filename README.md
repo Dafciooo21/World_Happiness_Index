@@ -48,6 +48,8 @@ The analysis compares the performance of multiple regression models, highlightin
 
 ### **How to Run**
 
+The code requires Python versions of 3.* and general libraries available through the Anaconda package.
+
 **1.**	Clone the repository.
 
 **2.**	Install the required libraries.
