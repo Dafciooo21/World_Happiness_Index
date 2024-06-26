@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## **World Happiness Index Modeling**
 
 <img src="whr-cover-ico.png" alt="WHI" width="250"/>
