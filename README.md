@@ -14,7 +14,6 @@ The goal of this analysis is to understand the factors contributing to the World
 
 Data is loaded from a CSV file containing panel data on various happiness-related metrics for different countries over multiple years.
 
-- [Agregated data in csv format](https://worldhappiness.report/data/)
 - [Official WHI_2023 Report](https://worldhappiness.report/data/)
 
 ### Description
@@ -36,13 +35,13 @@ Data is loaded from a CSV file containing panel data on various happiness-relate
 
 Several models are applied to the preprocessed data to predict the World Happiness Index:
 
-**1.**	**Multiple Linear Regression**
+1.	Multiple Linear Regression
 
-**2.**	**Polynomial Regression**
+2.	Polynomial Regressio**n**
 
-**3.**	**Random Forest**
+3.	Random Forest
 
-**4.**	**AdaBoost**
+4.	AdaBoost
 
 ###### **Model Evaluation**
 
