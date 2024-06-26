@@ -40,8 +40,6 @@ Several models are applied to the preprocessed data to predict the World Happine
 - Random Forest
 - AdaBoost
 
-###### **Model Evaluation**
-
 Each model is evaluated using Mean Squared Error (MSE) on training and test datasets. Learning curves are plotted to assess model performance.
 
 ##### **Conclusions**
