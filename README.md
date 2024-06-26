@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook that performs an analysis and modeli
 
 ### Project Motivation & Goal
 
-The motivation behind this project is to explore and understand the factors that influence the happiness of nations. By analyzing various socio-economic indicators, we aim to identify key determinants of happiness and develop models that can predict the World Happiness Index. This can help policymakers and researchers to design better strategies for improving the well-being of populations around the world.
+The motivation behind this project is to explore and understand the factors that influence the happiness of nations. By analyzing various socio-economic indicators, I aim to identify key determinants of happiness and develop models that can predict the World Happiness Index. This can help policymakers and researchers to design better strategies for improving the well-being of populations around the world.
 
 The goal of this analysis is to understand the factors contributing to the World Happiness Index and to build predictive models to estimate the index based on various socio-economic indicators.
 
